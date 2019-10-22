@@ -1,6 +1,7 @@
+📝
 Web app that lets users view and leave comments on the latest topics from the subreddit /r/webdev online community.
 
-Technologies used: 
+⛏Technologies used: 
 
 -JavaScript
 -jQuery
